@@ -6,8 +6,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Task Remainder-yesh",
-  description: "real-time performance tracking",
+  title: "Lovy-tech | Smart Glasses OS",
+  description: "Advanced e-OS system for smart glasses with real-time performance tracking",
     generator: 'v0.dev'
 }
 
