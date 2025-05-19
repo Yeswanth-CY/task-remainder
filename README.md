@@ -7,8 +7,6 @@ This app helps to set remainder for our meeting ...
 
 ## Deployment
 
-Your project is live at:
-
-v0-fork-of-calendar-app-1e.vercel.app
+Your project is live at: v0-fork-of-calendar-app-1e.vercel.app
 
 
